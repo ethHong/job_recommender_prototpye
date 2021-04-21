@@ -1,12 +1,11 @@
 # job_recommender_prototpye
 Generate job recommendation based on your CV (pdf file)
 
-
-
 ## Description
 
-* This project is using a recommendation system based on LDA and TF-IDF scoreCancel changes
+* This project is using a recommendation system based on LDA and TF-IDF score
 * The baseline of the model is based on this project: https://github.com/ethHong/-Course-Recommentation-Project
+* This project used pre-trained LDA model (pkl file)
 * When Resume / CV is uploaded as pdf file, the model
   * Extract text
   * Cleanse, filter stopwords and create LDA topic model
