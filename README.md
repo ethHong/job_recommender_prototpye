@@ -14,8 +14,8 @@ Generate job recommendation based on your CV (pdf file)
   * Generate top 10 relevant job descriptions
 
 * Formula to compute distances between topic distribution of Resume and JD is:
-  * \$$[Score_{tfidf}(C) = \sum_{i-1}^k tfidf(C, w_i)\]$$
-  * \$$[Score_{LDA-dist}(C) = \frac{1}{D_{js}(D, C)_{scaled} + 0.01}\]$$
+  * $$[Score_{tfidf}(C) = \sum_{i-1}^k tfidf(C, w_i)]$$
+  * $$[Score_{LDA-dist}(C) = \frac{1}{D_{js}(D, C)_{scaled} + 0.01}]$$
 
 
 
