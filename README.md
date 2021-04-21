@@ -16,15 +16,12 @@ Generate job recommendation based on your CV (pdf file)
 ![Presentation1](https://user-images.githubusercontent.com/43837843/115522825-6a448880-a2c7-11eb-8347-c26550a27b73.png)
 
 * Formula to compute distances between topic distribution of Resume and JD is:
-![gif latex](https://user-images.githubusercontent.com/43837843/115522794-61ec4d80-a2c7-11eb-8858-0ddf5400cdd1.gif)
-![gif latex-2](https://user-images.githubusercontent.com/43837843/115522741-57ca4f00-a2c7-11eb-92d3-6811e20d083e.gif)
+![Screen Shot 2021-04-21 at 5 35 12 PM](https://user-images.githubusercontent.com/43837843/115523345-f0f96580-a2c7-11eb-87d7-ac4e64cde318.png)
 
 
 ## Example
 
 * Input page
 <img width="1424" alt="Screen Shot 2021-04-21 at 5 10 31 PM" src="https://user-images.githubusercontent.com/43837843/115522898-7af4fe80-a2c7-11eb-9d20-d35014830f48.png">
-* Example Resume input
-![Screen Shot 2021-04-21 at 5 32 51 PM](https://user-images.githubusercontent.com/43837843/115523033-9a8c2700-a2c7-11eb-8c25-e7b82933a09d.png)
 * Example output
 <img width="1336" alt="Screen Shot 2021-04-21 at 5 10 55 PM" src="https://user-images.githubusercontent.com/43837843/115523069-a37cf880-a2c7-11eb-8322-db32cfc18bfe.png">
